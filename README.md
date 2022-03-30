@@ -1,7 +1,11 @@
 # CLAP Interpretable Predictions 👏🏻
-Official codebase for the paper (**TODO add link to preprint**) <br />
+Official codebase for the paper (link to preprint) <br />
 "Provable concept learning for interpretable predictions using variational inference", <br /> 
-Taeb A., Ruggeri N., Schnuck C., Yang F. 
+_Taeb A., Ruggeri N., Schnuck C., Yang F._ 
+
+_CLAP_ on the MPI Dataset             |  _CLAP_ on the ChestXRay Dataset
+:-------------------------:|:-------------------------:
+![ex2](figures/CLAP_MPI.png) | ![ex2](figures/CLAP_chestxray.png)
 
 ### Code usage
 To start training _CLAP_ on a dataset:
@@ -17,8 +21,6 @@ python main.py --dataset MPI
 ```
 More options for training, e.g. latent space dimension and regularization parameters, are specified inside `main.py`.
 
-<p float="left">
-<img alt="ex2" src="/figures/CLAP_chestxray.png" width="150" />
-<img alt="ex2" src="/figures/CLAP_MPI.png" width="150" />
-</p>
+
+
 
