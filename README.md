@@ -1,11 +1,9 @@
 # CLAP Interpretable Predictions 👏🏻
 Official codebase for the paper (link to preprint) <br />
 "Provable concept learning for interpretable predictions using variational inference", <br /> 
-_Taeb A., Ruggeri N., Schnuck C., Yang F._ 
+_Taeb A., Ruggeri N., Schnuck C., Yang F._
 
-_CLAP_ on the MPI Dataset             |  _CLAP_ on the ChestXRay Dataset
-:-------------------------:|:-------------------------:
-![](figures/CLAP_MPI.png) | ![](figures/CLAP_chestxray.png)
+![](figures/CLAP_chestxray.png)
 
 ### Code usage
 To start training _CLAP_ on a dataset:
