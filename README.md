@@ -5,7 +5,7 @@ _Taeb A., Ruggeri N., Schnuck C., Yang F._
 
 _CLAP_ on the MPI Dataset             |  _CLAP_ on the ChestXRay Dataset
 :-------------------------:|:-------------------------:
-![ex2](figures/CLAP_MPI.png) | ![ex2](figures/CLAP_chestxray.png)
+![ex2](/figures/CLAP_MPI.png) | ![ex2](/figures/CLAP_chestxray.png)
 
 ### Code usage
 To start training _CLAP_ on a dataset:
