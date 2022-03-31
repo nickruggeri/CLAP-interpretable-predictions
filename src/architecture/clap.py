@@ -13,7 +13,7 @@ class CLAP(nn.Module):
     share the same decoder. The encoder is shared partially:
     - a shared backbone structure maps images x to the style latent features of both VAEs
     - another encoder maps x to the core latent features of the prediction VAE
-    - another encoder maps x and y to the core latent features of the conecpt learning VAE
+    - another encoder maps x and y to the core latent features of the concept learning VAE
     All these encoders have a very similar backbone structure, with linear layers added to adjust for the different
     input or output dimensions.
     """
