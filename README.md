@@ -1,5 +1,5 @@
 # CLAP Interpretable Predictions 👏🏻
-Official codebase for the paper (link to preprint) <br />
+Official codebase for the paper ([Arxiv preprint](https://arxiv.org/abs/2204.00492)) <br />
 
 [1] _Provable concept learning for interpretable predictions using variational inference_, <br /> 
 Taeb A., Ruggeri N., Schnuck C., Yang F.
@@ -9,7 +9,7 @@ Taeb A., Ruggeri N., Schnuck C., Yang F.
 We present _CLAP_, an inherently interpretable prediction model. <br />
 Its VAE-based architecture allows the discovery and disentanglement of relevant concepts, encoded in the latent space, 
 which are utilized by a simple, concurrently trained classifier.   
-The final architecture allows to exploit provably intepretable, predictive and minimal concepts to assist practitioners 
+The final architecture allows to exploit provably interpretable, predictive and minimal concepts to assist practitioners 
 in making informed predictions. 
 
 
