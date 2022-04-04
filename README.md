@@ -1,8 +1,9 @@
 # CLAP Interpretable Predictions 👏🏻
-Official codebase for the paper ([Arxiv preprint](https://arxiv.org/abs/2204.00492)) <br />
+Official codebase for the paper <br />
 
 [1] _Provable concept learning for interpretable predictions using variational inference_, <br /> 
-Taeb A., Ruggeri N., Schnuck C., Yang F.
+Taeb A., Ruggeri N., Schnuck C., Yang F.  <br /> 
+([Arxiv preprint](https://arxiv.org/abs/2204.00492))
 
 ![](figures/CLAP_chestxray.png)
 
